@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/escopeta</item>
+        <item>@drawable/idea</item>
+        <item>@drawable/velas</item>
+        <item>@drawable/pavo</item>
+        <item>@drawable/miel</item>
+        <item>@drawable/vagon</item>
+        <item>@drawable/salsa</item>
+    </array>
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_red_light</item>
+        <item>@android:color/holo_purple</item>
+        <item>@android:color/holo_orange_light</item>
+        <item>@android:color/holo_green_light</item>
+        <item>@android:color/holo_red_dark</item>
+    </array>
+    <string-array name="names">
+        <item>Escopeta</item>
+        <item>idea</item>
+        <item>velas</item>
+        <item>pavo</item>
+        <item>miel</item>
+        <item>vagon</item>
+        <item>salsa</item>
+    </string-array>
+</resources>
