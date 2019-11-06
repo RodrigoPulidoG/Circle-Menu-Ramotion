@@ -18,13 +18,4 @@
         <item>@android:color/holo_green_light</item>
         <item>@android:color/holo_red_dark</item>
     </array>
-    <string-array name="names">
-        <item>Escopeta</item>
-        <item>idea</item>
-        <item>velas</item>
-        <item>pavo</item>
-        <item>miel</item>
-        <item>vagon</item>
-        <item>salsa</item>
-    </string-array>
 </resources>
